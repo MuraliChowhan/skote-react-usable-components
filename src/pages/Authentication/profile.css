@@ -1,0 +1,25 @@
+.mini-stats-wid .mini-stat-icon {
+    overflow: hidden;
+    position: relative;
+}
+
+.avatar-sm {
+    height: 3rem;
+    width: 3rem;
+}
+
+.avatar-title {
+    height: 50%;
+    width: 50%;
+}
+
+.fw-medium {
+    font-weight: 500;
+}
+
+.avatar-title {
+    height: 80%;
+    width: 78%;
+    padding: 9px;
+    border-radius: 23px;
+}

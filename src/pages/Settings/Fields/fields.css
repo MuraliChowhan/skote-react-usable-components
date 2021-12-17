@@ -1,0 +1,53 @@
+.card-col {
+    min-width: 350px !important; 
+    height: 72vh !important;
+    display: inline-block !important;
+    overflow-y: auto !important;
+}
+
+.flow-y {
+    overflow: auto;
+}
+
+.side-scroll{
+    /* overflow-x: auto; */
+    white-space: nowrap;
+}
+
+.font-size-15 {
+    font-size: 15px !important;
+}
+
+.input-border {
+    border-left: 2px solid red !important;
+    transition: all 0.2s ease-in-out !important;
+}
+
+.hover:hover {
+    background-color: #f5f7f7;
+}
+
+.hover:hover .hover-active {
+    display: inline;
+}
+
+.hover-active {
+    transition: all 0.2s ease-in-out;
+    /* display: none; */
+}
+
+.bx {
+    font-family: "boxicons" !important;
+    font-weight: normal;
+    font-style: normal;
+    font-feature-settings: normal;
+    font-variant: normal;
+    line-height: 1;
+    display: inline-block;
+    text-transform: none;
+    /* speak: none; */
+    /* speak: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale; */
+}
+

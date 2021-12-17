@@ -1,0 +1,61 @@
+.permissionTypes {
+    background-color: #ed3a3a;
+    border-radius: 10px;
+    color: #fff;
+    width: 96px;
+    text-align: center;
+    padding: 1px;
+    font-size: 13px;
+}
+
+
+
+
+
+
+.custom-modal-changes .modal-content{
+    max-width: 135% !important;
+    border-radius: 0.5rem;
+    width: 135% !important; 
+}
+
+.custom-delete-modal .modal-content{
+    max-width: 110% !important;
+    border-radius: 0.5rem;
+    width: 110% !important; 
+}
+.delete-text{
+    font-size: 30px;
+    font-weight: 600;
+}
+.delete-text-desc{
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.custom-modal .modal-content{
+    max-width: 135% !important;
+    border-radius: 0.6rem;
+    width: 135% !important;
+}
+.custom-text-dark{
+    color: #080e14 !important;
+    font-size: 0.925rem;
+    font-weight: 600;
+}
+
+.dull-text-dark{
+    color: #949aa1 !important;
+    font-size: 0.846rem;
+    font-weight: 600;
+}
+
+.deleteIcon{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    border: 1px solid #e34655 !important;
+    font-size: 40px;
+    color: #e34655 !important;
+    padding-top: 14px;
+}

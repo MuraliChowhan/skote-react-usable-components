@@ -1,0 +1,12 @@
+.iconbg{
+    float: left;
+    background-color: #edf6ff;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-right: 25px;
+}
+.countText{
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-bottom: 0;
+}

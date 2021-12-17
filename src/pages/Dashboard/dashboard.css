@@ -1,0 +1,12 @@
+.card-wh-150:hover {
+    transform: scale(1.05);
+}
+
+.card-wh-150{
+    min-width: 150px;
+    min-height: 120px;
+    transition: all 0.2s ease-in-out;
+}
+.hover:hover{
+    background-color: #e2f3f5;
+}

@@ -1,0 +1,17 @@
+.kv-avatar .file-input {
+    display: table-cell;
+    width: 213px;
+}
+
+#upload-photo {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+ }
+ .custom-border{
+   padding: 40px;
+   text-align: center;
+   cursor: pointer;
+   border: dashed #808080;
+   border-radius: 5px;
+ }

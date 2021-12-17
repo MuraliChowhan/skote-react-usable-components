@@ -1,0 +1,14 @@
+.button-color{
+    border-color: #556ee6;
+    background-color: #556ee6;
+}
+.button-color:focus
+{
+    border-color: #556ee6;
+    background-color: #556ee6;
+}
+.button-color:hover
+{
+    border-color: #556ee6;
+    background-color: #556ee6;
+}

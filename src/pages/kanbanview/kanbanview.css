@@ -1,0 +1,64 @@
+/* #draggable {
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    background: white;
+  }
+  
+  .dropzone {
+    width: 200px;
+    height: 20px;
+    background: blueviolet;
+    margin-bottom: 10px;
+    padding: 10px;
+  } */
+
+  .dot {
+    height: 5px;
+    width: 5px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+  .reomve-border .dropzone{
+    min-height: 40px !important;
+    border-color: none !important;
+    border-style: none !important;
+  }
+
+  .kanban-header{
+      font-size: 14px;
+      font-weight: 500;
+  }
+  .searchbar-bg-color{
+    /* background-color: rgb(11, 56, 104); */
+    background-color: #102dbe;
+  }
+  .custom-search .input-group-text{
+    border-top-right-radius: 1.25rem;
+    border-bottom-right-radius: 1.25rem;
+}
+
+.custom-search  .form-control{
+    /* border-radius: 8.25rem !important; */
+    border-top-left-radius: 2.25rem;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    border-bottom-left-radius: 2.25rem;
+}
+.cursor-pointer
+{
+    cursor: "pointer"
+}
+
+.card .card-header{
+    min-height: 0px !important;
+    display: unset;
+}
+
+.custom-border-top{
+    height: 3px;
+    border-top: 3px solid red !important;
+
+}
