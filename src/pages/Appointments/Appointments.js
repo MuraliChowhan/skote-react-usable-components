@@ -3,7 +3,7 @@ import {
     Table
 } from "reactstrap";
 function Appointments() {
-    
+
     const tablecolumns = [{
         id: "100",
         taskName: "2",
@@ -86,7 +86,7 @@ function Appointments() {
                                     <td>
                                         <div className="d-flex">
                                             <i className="fas fa-edit"></i>
-                                            <i className="fas fa-trash-alt" style={{ marginLeft:"5px" }}></i>
+                                            <i className="fas fa-trash-alt" style={{ marginLeft: "5px" }}></i>
                                         </div>
                                     </td>
                                 </tr>

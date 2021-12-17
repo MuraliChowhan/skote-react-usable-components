@@ -209,7 +209,7 @@ export const KanbanView = (props) => {
 
                                             <div className="d-flex justify-content-between">
                                                 <div>
-                                                    <h6 className="font-title">{item.name}</h6>
+                                                   <Link to="/lead-management"> <h6 className="font-title">{item.name}</h6> </Link>
                                                     <div className="d-flex align-items-center mb-3">
                                                         <h6 className="text-muted mb-0">$123</h6>
                                                         <p className="text-muted mb-0 font-size-10" style={{ marginLeft: "3px" }}>12-09-2021</p>

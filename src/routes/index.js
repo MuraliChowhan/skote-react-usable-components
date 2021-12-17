@@ -40,6 +40,7 @@ import Invoices from "store/invoices/reducer"
 import Invoice from "pages/Createnew/Invocie"
 import UserAppointments from "pages/Createnew/UserAppointments"
 import { KanbanView } from "pages/kanbanview/KanbanView"
+import { LeadManagement } from "pages/kanbanview/LeadManagement"
 
 const authProtectedRoutes = [
   { path: "/dashboard", component: Dashboard },
@@ -70,7 +71,8 @@ const authProtectedRoutes = [
   { path: "/invoice", component: Invoice },
   { path: "/user-appointments", component: UserAppointments },
   { path: "/leads", component: KanbanView },
-  
+  { path: "/lead-management", component: LeadManagement },
+
   // Client Admin
   { path: "/infrastructure", component: Infrastructure },
   { path: "/rolesandpermissions", component: Roles },
